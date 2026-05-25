@@ -34,6 +34,7 @@ yarn-error.log*
 
 # Kubernetes / Helm
 *.kubeconfig
+infra/k8s/secret.yaml
 
 # IDE
 .vscode/
